@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 
 * Added so I could test first commit to git
+* Added so I could test a change in file

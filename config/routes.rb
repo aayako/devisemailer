@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  devise_for :users
   root to: 'pages#index'
   root to: 'pages#contact'
   root to: 'pages#about'
